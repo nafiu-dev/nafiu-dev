@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <!-- ## 💫 About Me: -->
+<b>i'm a</b>
 <b>Full stack developer<br>Data science enthusiast</b>
 
 
