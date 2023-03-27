@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## 💫 About Me:
-Full stack developer<br>Data science enthusiast
+<!-- ## 💫 About Me: -->
+<b>Full stack developer<br>Data science enthusiast</b>
 
 
 ## 🌐 Socials:
