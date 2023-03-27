@@ -2,7 +2,7 @@
 
 <!-- ## 💫 About Me: -->
 <b>i'm a</b><br>
-<b>Full stack developer<br>Data science enthusiast</b>
+Full stack developer<br>Data science enthusiast
 
 
 ## 🌐 Socials:
